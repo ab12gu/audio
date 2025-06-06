@@ -12,9 +12,25 @@ Founded under parent company Pioneer, starting in 1994, but became an independen
 - [rekordbox manual](https://cdn.rekordbox.com/files/20250313121537/rekordbox7.1.0_manual_EN.pdf)
 - [rekordbox installation and documentation](https://rekordbox.com/en/download/)
 
-## DJ-Controller DDJ-SX2, 2014
+## DJ-Controller DDJ-400
 
-![Pioneer DJ](https://upload.wikimedia.org/wikipedia/commons/a/aa/Printemps_de_Bourges_2019-15%2C_contr%C3%B4leur_DJ_%28cropped%29_-edit.jpg){ width="500" }
+https://www.pioneerdj.com/en/product/controller/ddj-400/black/overview/
+
+
+![Pioneer DJ](https://www.pioneerdj.com/-/media/pioneerdj/images/products/controller/ddj-400sxa/ddj-400_cgi_top_1792x1316.jpg?dmc=1){ width="500" }
+
+![Pioneer DJ](https://www.pioneerdj.com/-/media/pioneerdj/images/products/controller/ddj-400sxa/ddj-400_cgi_front_1792x1316.jpg?dmc=1){ width="500" }
+
+![Pioneer DJ](https://www.pioneerdj.com/-/media/pioneerdj/images/products/controller/ddj-400sxa/ddj-400_cgi_rear_1792x1316.jpg?dmc=1){ width="500" }
+d
+
+## Speaker Wirirng 
+
+https://www.mediacollege.com/audio/connection/jack-stereo-rca-2.html
+
+![alt text](image.png)
+
+Ground/Tip to outer side and tips are right/left
 
 
 ## Citations

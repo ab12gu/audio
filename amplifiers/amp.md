@@ -1,5 +1,7 @@
 # Amplifier
 
+![alt text](E4398845-5FBA-4EA8-843C-C80E2E069A63_1_105_c.jpeg)
+
 ## Speaker System Amplifier for Game Night
 
 I found 2 desktop speakers outside my apartment while walking the dog and wanted to get them to work. 
